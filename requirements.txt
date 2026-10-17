@@ -1,0 +1,4 @@
+
+faster-whisper
+pyserial
+av<19
